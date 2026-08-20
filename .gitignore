@@ -1,0 +1,21 @@
+# Dataset e split (troppo pesanti / non necessari nel repo)
+BUSI_split/
+aug_BUSI_split/
+oversample_BUSI_split/
+Dataset_BUSI_with_GT/
+
+# Modelli addestrati (pesi, checkpoint)
+models/
+*.pth
+*.h5
+*.pt
+*.ckpt
+
+# File di sistema
+.DS_Store
+
+# Ambienti Python
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
