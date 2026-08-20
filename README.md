@@ -32,7 +32,7 @@ The notebook is organised into four blocks:
 The BUSI dataset is not included in this repository due to its size. It is publicly available:
 
 - Al-Dhabyani W., Gomaa M., Khaled H., Fahmy A. (2020). *Dataset of breast ultrasound images*. Data in Brief.
-- Source: [Kaggle — Breast Ultrasound Images Dataset](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+- Source: [Breast Ultrasound Images Dataset](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)
 
 To reproduce the experiments, download the dataset and recreate the split (stratified 70/15/15) following the pipeline in Block 1 of the notebook.
 
